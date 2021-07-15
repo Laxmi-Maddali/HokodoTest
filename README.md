@@ -15,6 +15,8 @@
 1. Download selenium, maven and IDE 
 2. download java 8
 
+# Config file
+To change the browser from chrome to safari ir vice versa, Go to ``src/main/java`` >> ConfigReader >> config.properties and change the ``browser`` parameter
 
 # To Run the Tests:
 
